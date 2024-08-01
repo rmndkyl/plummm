@@ -49,8 +49,9 @@ This script allows interaction with various smart contracts on the blockchain, p
   | YourPrivateKey2                  | username:password@proxyserver:port |
 
 
-2. **Настройка файла config.py**: 
-  -Fill in the `config.py` file with the following parameters:
+2. **Configuring config.py**
+   
+  - Fill in the `config.py` file with the following parameters:
 
     - `module_delay_min`: minimum delay between module executions (in seconds)
     - `module_delay_max`: maximum delay between module executions (in seconds)
