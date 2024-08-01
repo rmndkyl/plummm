@@ -5,7 +5,7 @@ from modules.ascii_art import display_ascii_art
 
 def main_menu():
     display_ascii_art()
-    print("Plumefucker by Klimmo. Send DMs with dick pics, donations here 0xd22e6ea4b557db527077f3341a3c6df90c4e6c03")
+    print("Script and tutorial written by Telegram user @rmndkyl, free and open source, do not believe in paid versions")
     print("Select a module to launch:")
     print("2. Custom Route")
     print("3. Faucet Module")
